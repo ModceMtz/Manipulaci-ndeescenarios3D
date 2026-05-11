@@ -23,12 +23,10 @@ Este proyecto fue construido priorizando el uso nativo de módulos ES6 y renderi
 
 ## 👨‍💻 Información del Desarrollador
 
-* **Nombre:** Miguel Angel Cano Alejandro
+* **Nombre:** Agustin Modce Granados Martinez
 * **Universidad:** Instituto Tecnológico de Pachuca
 * **Carrera:** Ingeniería en Sistemas Computacionales
-* **Semestre:** 6to Semestre
-* **Correo Electrónico:** mcanoalejandro@gmail.com
-* **Teléfono:** +52 772 148 6990
+* **Semestre:** 5to Semestre
 
 ---
 
